@@ -65,8 +65,8 @@ You can find sample of design in [Resources](#resources) and [Design Example](#d
 
 Here is an example how application might look like, but the final decision is up to you.
 
-- [Сategories List Example](categories_list.png)
-- [Facts Screen Example](facts.png)
+- ![Сategories List Example](categories_list.png)
+- ![Facts Screen Example](facts.png)
 
 ## Resources
 - [JSON Content Link](https://drive.google.com/uc?export=download&id=12L7OflAsIxPOF47ssRdKyjXoWbUrq4V5)
