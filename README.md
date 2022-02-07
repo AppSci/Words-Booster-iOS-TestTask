@@ -54,12 +54,19 @@ Scenarios on [Facts Screen](#facts-screen):
 
 You can find sample of design in [Resources](#resources) and [Design Example](#design-example) sections.
 
+## Advanced Requirements
+Choose **only** one task:
+- Add local storage for content(**Realm** is preferred, but decision is up to you)
+- Add possibility to add some facts to the **favorites**. To simplify this task it can be just additional category in the list and favourite items appears there.
+- Provide possibility to share fact with Apple's share sheet.
+
 ## Technical Requirements
 
 - Swift is required.
 - MVVM architectural pattern is preferred.
 - SwiftUI is preferred.
 - Combine is preferred.
+- DI preferred.
 
 ## Design Example
 
